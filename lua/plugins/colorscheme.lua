@@ -1,4 +1,5 @@
 return {
-  { "ellisonleao/gruvbox.nvim"
+  { "ellisonleao/gruvbox.nvim",
+    "rose-pine/neovim"
   },
 }
