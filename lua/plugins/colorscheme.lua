@@ -1,5 +1,6 @@
 return {
   { "ellisonleao/gruvbox.nvim",
-    "rose-pine/neovim"
+    "rose-pine/neovim",
+    "joshdick/onedark.vim"
   },
 }

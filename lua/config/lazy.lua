@@ -15,7 +15,7 @@ require("lazy").setup({
       "LazyVim/LazyVim",
       import = "lazyvim.plugins",
       opts = {
-        colorscheme = "gruvbox",
+        colorscheme = "onedark",
       }
     },
     { import = "lazyvim.plugins.extras.editor.telescope" },
